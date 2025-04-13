@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #f9f9f9;
+  background-color: #ae9eeb;
   text-align: center;
   padding: 2em;
 }
@@ -8,7 +8,7 @@ body {
 .quiz-container {
   max-width: 500px;
   margin: auto;
-  background: white;
+  background: rgb(241, 156, 156);
   padding: 2em;
   border-radius: 10px;
   box-shadow: 0 0 10px #ccc;
